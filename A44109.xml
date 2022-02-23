@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Victoria augustissimi magnæ Britanniæ, &amp;c. regis Gulielmi Tertii, qui urbem &amp; arcem Namuræ a Gallis occupatam, fortiter obsedit, &amp; feliciter recuperavit, expulso Gallorum præsidio</title>
+            <author>Hog, William, b. ca. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44109</idno>
+            <idno type="STC">Wing H2365</idno>
+            <idno type="STC">ESTC R41727</idno>
+            <idno type="EEBO-CITATION">31355835</idno>
+            <idno type="OCLC">ocm 31355835</idno>
+            <idno type="VID">110706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110706)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Victoria augustissimi magnæ Britanniæ, &amp;c. regis Gulielmi Tertii, qui urbem &amp; arcem Namuræ a Gallis occupatam, fortiter obsedit, &amp; feliciter recuperavit, expulso Gallorum præsidio</title>
+                  <author>Hog, William, b. ca. 1652.</author>
+               </titleStmt>
+               <extent>[8], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno Domini, 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Preface signed: G. Hogæus.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Poetry.</term>
+               <term>Namur (Belgium) --  Siege, 1692 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:110706:1"/>
+               <pb facs="tcp:110706:1" rendition="simple:additions"/>
+VICTORIA Auguſtiſſimi Magnae Britanniae, <hi>&amp;c.</hi>
+            </p>
+            <p>REGIS Gulielmi Tertii, Qui Urbem &amp; Arcem NAMURAE, A Gallis occupatam, fortiter obſe<g ref="char:EOLhyphen"/>dit, &amp; feliciter recuperavit, ex<g ref="char:EOLhyphen"/>pulſo Gallorum praeſidio.</p>
+            <p>
+               <hi>LONDINI:</hi> Anno Domini, 1695.</p>
+            <pb facs="tcp:110706:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110706:2"/>
+            <head>
+               <hi>A D Nobiliſſimum Illuſtriſſimumque JOANNEM</hi> Magni Sigilli cuſtodem, <hi>&amp;c.</hi>
+            </head>
+            <p>M<g ref="char:V">Ʋ</g>lti fortaſſe mirabuntur, vir illuſtriſ<g ref="char:EOLhyphen"/>ſime, quod tibi, viro in tam ſubli<g ref="char:EOLhyphen"/>mi dignitate collocato, hunc libellum tam ex<g ref="char:EOLhyphen"/>iguum dedicare non dubitaverim: Sed cum res tractet adeò praeclaras, illum omninò viro honorifico Inſcribendum judicavi: Quin imo ſub cujus nominis patrocinio potius, quam tui, po<g ref="char:EOLhyphen"/>ema hoc de Victoria Auguſtiſſimi magnae Bri<g ref="char:EOLhyphen"/>tanniae, <hi>&amp;c.</hi> Regis <hi>Gulielmi</hi> Tertii, in lucem ederem? quum te ille ſingulari favo<g ref="char:EOLhyphen"/>re proſequatur, quod multis praeclaris indi<g ref="char:EOLhyphen"/>ciis demonſtravit: Nam te magni ſigilli cu<g ref="char:EOLhyphen"/>ſtodem
+<pb facs="tcp:110706:3"/>
+creavit, tibi munera officii ſui rega<g ref="char:EOLhyphen"/>lis, ſe abſente, obeunda commiſit, adjunctis tibi ſex aliis viris perſpectae in Regem fidei, &amp; in patriam amoris; quanquam vix ulli ex hoc praeclaro ſeptemviratu aliter mihi quam fama noti ſunt, excepto teipſo, &amp; Illuſtriſ<g ref="char:EOLhyphen"/>ſimo Comite <hi>Pembrokiae,</hi> viro omni litera<g ref="char:EOLhyphen"/>tura expolito, nec minus virtute &amp; morum ſuavitate, quam genere &amp; natalibus illuſtri, qui me pluſquam ſemel aut bis familiari dig<g ref="char:EOLhyphen"/>natus eſt alloquio, &amp; egeſtatem meam mul<g ref="char:EOLhyphen"/>toties munificè ſublevavit. Certe magna gau<g ref="char:EOLhyphen"/>dendi cauſa eſt Omnibus bonis, quod tibi bonitate, eruditione &amp; prudentia tam praeclaro &amp; inſigni tanta obtigit autoritas; qua pios foveas, im<g ref="char:EOLhyphen"/>pios coerceas, egenos ſubleves, &amp; latè in om<g ref="char:EOLhyphen"/>ne genus hominum bonitatis &amp; virtutis tuae documenta diffundas; juxta illud <note n="*" place="margin">Prov. 11. 10.</note> Solomonis proverbium, Cum bene est juſtis, Civitas laeta<g ref="char:EOLhyphen"/>tur: Nec ſilere poſſum inſigne virtutis &amp; pie<g ref="char:EOLhyphen"/>tatis
+<pb facs="tcp:110706:3"/>
+tuae ſpecimen, quod nuper edidiſti, cum illum ipſum diem dominicum, quo publica gratiarum actio imperabatur, propter victori<g ref="char:EOLhyphen"/>am nuper partam, vulgus, quod in vitium flecti cereum eſt, impia profanatione faedare parabat, niſi tua illos coercuiſſet autoritas. Jeohova est Deus ſanctus &amp; zelotes dixit <note n="*" place="margin">Joſh. 24. 20.</note> Joſhua Iſ<g ref="char:EOLhyphen"/>raelitis, ſi deſeratis Jehovam &amp; ſerviatis diis alienis, ille convertet ſe, &amp; nocebit vobis, poſtquam vos beneficiis proſecutus eſt. Non<g ref="char:EOLhyphen"/>ne ſi tale flagicium fuiſſet illo die commiſſum, expectanda erat vindicta caelitus depluenda cum in autores tum in permiſſores tantae impietatis? Idciro gratias tibi agunt omnes pii quod auto<g ref="char:EOLhyphen"/>ritatam tuam tam piè &amp; prudenter &amp; opportunè exercuiſti. Vir illuſtriſſime, humanitas &amp; benig<g ref="char:EOLhyphen"/>nitas tua jamdudum mihi multis experimen<g ref="char:EOLhyphen"/>tis perſpecta, ſpem fecit te meam hanc au<g ref="char:EOLhyphen"/>daciam boni conſulturum. Faveat tibi De<g ref="char:EOLhyphen"/>us
+<pb facs="tcp:110706:4"/>
+omnipotens &amp; multa te in hac vita felici<g ref="char:EOLhyphen"/>tate occumulet, &amp; poſt hanc vitam ſem<g ref="char:EOLhyphen"/>piternis in Coelo praemiiscoronet.</p>
+            <closer>
+               <signed>Sum ſervus tibi devinctiſſimus; G. HOGAEUS.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:110706:4"/>
+            <head>AD Nobiliſſimum Illuſtriſſimumque JOANNEM Magni ſigilli cuſtodem, Anglicanae gentis &amp; nobilitatis Ornamentum, patriae Columen, bonorum ſola<g ref="char:EOLhyphen"/>tium, malorum terrorem, Omnis pietatis Virtutis &amp; eruditionis patronum.</head>
+            <head>ἘΓΚΩΜΙΑΣΤΙΚΟΝ</head>
+            <l>QUis laudes numerare tuas, quis carmine digno</l>
+            <l>Nomen ad aſtra tuum radiantia tollere poſſit?</l>
+            <l>O ſaecli ſtupor atque decus, cui vivida virtus</l>
+            <l>Poſt diadema locum tribuit regale ſecundum.</l>
+            <l>Ingenium Caeleſte tuum velocius annis</l>
+            <l>Progreditur, lentaeque pati diſpendia neſcit</l>
+            <l>Ulla morae. Subitis volitavit in ardua pennis,</l>
+            <l>Donec ad hunc ſcandendo gradnm pervenit honoris,</l>
+            <l>Quo nihil inſano vel caeca ſuperbia faſtu</l>
+            <l>Celſius expectet, vel mens moderatior optet.</l>
+            <l>Haec meritis venêre tuis: Nam quamlibet ortum</l>
+            <l>Ducis honoratae generoſo à ſtemmate gentis,</l>
+            <l>Tu genus &amp; pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vos, &amp; quae non feceris ipſe</l>
+            <l>
+               <pb facs="tcp:110706:5"/>
+Haec tua vix dicenda putas. Majoribus altis</l>
+            <l>Praeluces, generique novum ſuperaddis honorem.</l>
+            <l>Atque hinc regalis tibi leniter aura favoris</l>
+            <l>Afflat, &amp; hinc pariter proceres te &amp; vulgus adorant.</l>
+            <l>Omnibus hinc aliis te Rex te praeſicit unum,</l>
+            <l>Et tibi ducendas populi commiſit habenas.</l>
+            <l>Ingenii virtute tui, curaque fideli</l>
+            <l>Nititur, ad nutuſque tuos Regnum omne miniſtrat.</l>
+            <l>Sic Peluſiacis quondam Joſephus in oris</l>
+            <l>Sub Pharaône bono imperii retinacula rexit,</l>
+            <l>Arbitrio dans jura ſuo per rura, per Urbes.</l>
+            <l>Juſtitia viduis, pueriſque parentibus orbis</l>
+            <l>Auxiliare tua, nec vi nec fraude potentes</l>
+            <l>Inſultare ſinis tenui trepidóque clienti.</l>
+            <l>Exhilaras pietate bonos, &amp; acumine doctos,</l>
+            <l>Munificáque manu miſeros, patremque ſalutant</l>
+            <l>Pierii te turba chori. Genus omne virorum</l>
+            <l>Te celebrant, gaudentque tuas diffundere laudes,</l>
+            <l>Et te Neſtoream cupiunt ſuperare ſenectam.</l>
+            <closer>
+               <signed>
+                  <hi>Libenter obtulit</hi> G. HOGAEUS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:110706:5"/>
+            <head>AD <hi>Auguſtiſſimum Magnae Britanniae,</hi> &amp;c. REGEM Gulielmum III. POST VICTAM NAMURAM.</head>
+            <head>ΠΡΟΣΦΩΝΗΤΙΚΟΝ.</head>
+            <l>NUper ego tacitus ſegni in ſqualore jacebam;</l>
+            <l>Nunc animum novus ardor agit, flammáque recenti</l>
+            <l>Mens furiata novos geſtit cantare Triumphos;</l>
+            <l>Et laudes, Gulielme, tuas, bellique labores</l>
+            <l>Altiſonâ celebrare tubâ. Quo ſcandere tento?</l>
+            <l>Nec Phaëtontaeae timeo mala fata ruinae?</l>
+            <l>Sed Musâ ſtimulante trahor. Quid martia mundi</l>
+            <l>Heroäs, Regina, tuos, Roma inclyta, jactas,</l>
+            <l>
+               <pb n="2" facs="tcp:110706:6"/>
+Scipiadas, Curios, Marios, fortemque Camillum?</l>
+            <l>Hos omnes ſplendore ſuae virtutis obumbrat</l>
+            <l>Heros Naſſovius, velut omnia ſydera Titan,</l>
+            <l>Dum meliore novas acquirit nomine palmas.</l>
+            <l>Huic etenim Deus, aetherii regnator Olympi</l>
+            <l>Dexter adeſt, tutumque ſui munimine Scuti</l>
+            <l>Praeſtat ubique, trucem quoties violentus in hoſtem</l>
+            <l>Irruit, &amp; qua tela videt denſiſſima tendit</l>
+            <l>Acer equo; nam pro populis non ulla Britannis</l>
+            <l>Fata fugit. Mediis Poenorum qualis in arvis</l>
+            <l>Jejunus movet arma leo, gaudetque comantem</l>
+            <l>Excutiens cervice jubam, &amp; fremit ore cruento</l>
+            <l>Impavidus, ſic ille ruit mucrone minaci</l>
+            <l>Tela inter media, atque inimica per agmina praeceps.</l>
+            <l>O magno dilecte deo, tibi militat aether,</l>
+            <l>Atque tua Angelicae veniunt ad claſſica turmae,</l>
+            <l>
+               <pb n="3" facs="tcp:110706:6"/>
+Inſtanteſque tibi depellunt undique mortes.</l>
+            <l>Hinc ſacrum violare caput pavefacta recuſant</l>
+            <l>Fulmina, Sulphureae impulſu volitantia flammae.</l>
+            <l>Ferrea grando tuas innoxia tranſilit aures.</l>
+            <l>O quoties dextrâ qui proximus atque ſiniſtrâ</l>
+            <l>Qui ſtetit, ictus obît ſubitò, &amp; poene obruit ipſum</l>
+            <l>Fulminei vis ſaeva globi? <note n="*" place="margin">2 <hi>Sam.</hi> 21. 15, 16, 17.</note> Sic poene cadebat,</l>
+            <l>Iſhbibenôbe, tui trajectus vulnere ferri</l>
+            <l>Sanguine Jeſſaeo genitus, nî in tempore ferret</l>
+            <l>Armipotens Abiſaeus opem, qui te, licet ortum</l>
+            <l>Stirpe gigantaea, valido mox enſe ruentem</l>
+            <l>Dejicit, &amp; multâ porrectum extendit arenâ.</l>
+            <l>
+               <note n="†" place="margin">
+                  <hi>Dan.</hi> 3. 24, 25.</note> Haud aliter rapidae quondam patientia flammae</l>
+            <l>Corpora terna virûm, Aſſyria in fornace jacentum</l>
+            <l>Facta fuêre, in quos ignis nil juris habebat:</l>
+            <l>Aeternoque dei nato comitante triumphant</l>
+            <l>
+               <pb n="4" facs="tcp:110706:7"/>
+Ignibus in mediis laeti, celebrantque choraeas,</l>
+            <l>Ceu pedibus pulchri premerent viridaria prati.</l>
+            <l>Tu quoties in bella ruis, victoria greſſus</l>
+            <l>Antevolat, Gulielme, tuos, Regiſque perennis</l>
+            <l>Numine perrumpit florentes aere phalanges,</l>
+            <l>Altáque turrigeri ſubvertit culmina muri.</l>
+            <l>Ipſa Namura tuis obſiſtere viribus, etſi</l>
+            <l>Illam hinc vaſta palus, hinc ardua maenia cingant,</l>
+            <l>Non poterat; proſtrata graves dedit illa ruinas</l>
+            <l>Milite cincta tuo, requiemque capeſſere nullam</l>
+            <l>Suſtinuit. Gallis adeò trepidantibus inſtas,</l>
+            <l>Urbem ut ſponte tibi linquant, &amp; in arce tegantur.</l>
+            <l>Arx tamen ipſa nequit requiem concedere feſſis,</l>
+            <l>Sic tu fulmineis illam, licet undique firmam,</l>
+            <l>Nocte dieque globis labefactam à ſede revellis.</l>
+            <l>Interea dubii metuens diſcrimina belli</l>
+            <l>
+               <pb n="5" facs="tcp:110706:7"/>
+Ignavus Lodoïcus abeſt, ſemotus ab omni,</l>
+            <l>Armorum ſtrepitu, atque ducum dum facta ſuorum</l>
+            <l>Arrogat ille ſibi, falſaeque cupidine famae</l>
+            <l>Uritur, exornans alienis corpora plumis,</l>
+            <l>Armat, &amp; armata emittit centena virorum</l>
+            <l>Millia, qui ſpatium Flandrae telluris inundant,</l>
+            <l>(Sic vanos generare metus ſperabat) &amp; hoſti</l>
+            <l>Ante expectatum, poſitis &amp; in agmine caſtris</l>
+            <l>Stant propius, jam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> arma tenent, pugnam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> minantur</l>
+            <l>Sanguineam. Sed nulla tamen ſtratagemata poſſunt</l>
+            <l>Gallica magnanimis terrorem inferre Britannis</l>
+            <l>Angligenis Scotiſque, unitis viribus arcem</l>
+            <l>Dum quatiunt ſimul, &amp; magnâ nituntur opum vi.</l>
+            <l>Sint licet adverſae numero majore catervae.</l>
+            <l>Ipſe etiam Gulielmus adeſt, animoſque Britannis</l>
+            <l>Addidit, &amp; ſociis ſacrato foedere junctis,</l>
+            <l>
+               <pb n="6" facs="tcp:110706:8"/>
+Enſe minax, vultuque ferox, in utrumque paratus,</l>
+            <l>Arcem igni jaculiſque petens, &amp; comminus hoſti</l>
+            <l>Obvius ire parans: Haec agmina Gallica ſpectant,</l>
+            <l>Nec licet obtectum ulteriùs cohibere timorem,</l>
+            <l>Sed ſenſim revocantque pedem, timidéque recedunt,</l>
+            <l>Hinc pavor obſeſſos adeo circumtonat hoſtes,</l>
+            <l>Virtutem, Gulielme, tuam, ſociûmquae ſtupentes</l>
+            <l>Ut tibi conceſſis ſimul urbe atque arce Namurae,</l>
+            <l>Sanguinei que ſola fuit ſpes maxima Galli,</l>
+            <l>Cogantur miſeram pacti diſcedere vitam,</l>
+            <l>Cumque pudore gravi redimant breve dedecus aevi</l>
+            <l>Ergo Jacobitae cur ſpem lactatis inanem</l>
+            <l>Amplius? urbs, rabidi robur tuteláque Galli</l>
+            <l>Maxima que fuerat, nunc à meliore tenetur</l>
+            <l>Principe. Perge igitur, Gulielme, invadere Gallum</l>
+            <l>Nam latè patefacta via eſt, nihil obſtat eunti.</l>
+            <l>
+               <pb n="7" facs="tcp:110706:8"/>
+Perge, nec ulla tuos teneat mora lenta Triumphos,</l>
+            <l>Perſequere attonitum ferro flammaque tyrannum,</l>
+            <l>Ante tuos dum ſponte pedes procumbere cogas,</l>
+            <l>Subjiciatque tibi ſeſe quaſi vile ſcabellum.</l>
+            <l>Sola Namura, tuis poterat quae obſiſtere caeptis,</l>
+            <l>Succubuiſſe tibi gaudens, tua jura recepit.</l>
+            <l>Sed tamen ante tuum redeas inviſere Regnum,</l>
+            <l>Aſpectúque tuo populum, vultuque Britannum</l>
+            <l>Laetifica, qui te, quaſi rur ſum à morte reductum</l>
+            <l>Accipient. Proh quanta animos formido piorum,</l>
+            <l>Quantus ubique pavor tenuit, rumoribus omnem</l>
+            <l>Quando Jacobitae falſis fremuêre per urbem;</l>
+            <l>Occidit ante diem ſubito Rex vulnere victus!</l>
+            <l>In tenebris flevêre pii, vulguſque malignum</l>
+            <l>Extulerat caput, atque altâ cervice vagatur,</l>
+            <l>A Batavis donec rediens bona fama remotis,</l>
+            <l>
+               <pb n="8" facs="tcp:110706:9"/>
+Gaudia va<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a malis aufert, fanctiſque timorem.</l>
+            <l>
+               <note n="*" place="margin">
+                  <hi>Gen.</hi> 37. 32, 33. <hi>&amp; Gen.</hi> 46. 29, 30.</note> Haud aliter natum rabidarum dente ferarum</l>
+            <l>Diſcerptum Patriarcha vetus lugebat inani</l>
+            <l>Cum gemitu, &amp; vanis lachrymis, iterum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> triumphans</l>
+            <l>Laetitiâ, tanquam redivivum à morte reductum</l>
+            <l>Aſpexit Pharias latè dare jura per oras.</l>
+            <l>Ergo reſume animos pietas, hilarique triumpho</l>
+            <l>Laetitiam teſtate tuam; vivitque vigetque</l>
+            <l>Naſſovius, tutela tibi &amp; fortiſſima turris</l>
+            <l>Aeterni bonitate dei. At lugete ſceleſti,</l>
+            <l>Nunc etenim veſtrae ſpem praeſidiumque catervae,</l>
+            <l>Nunc magis atque magis Lodoicum adverſa fatigant,</l>
+            <l>Pronus &amp; in ſubitam vergit miſer iſte ruinam.</l>
+            <l>Sic ſemper vigeat, ſemper pia turba triumphet,</l>
+            <l>Sic ſcelere uſque ſuo pereat ſceleratus in aevum.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110706:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
